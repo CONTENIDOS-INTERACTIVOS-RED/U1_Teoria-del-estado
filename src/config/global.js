@@ -1,7 +1,8 @@
 export default {
   global: {
-    numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    numeroUnidad: '1',
+    tituloUnidad:
+      'El concepto de estado,  sus orígenes, elementos, fundamentos y funciones',
   },
   menuPrincipal: {
     menu: [
@@ -15,20 +16,53 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo:
+          'El Estado según Hobbes, Rousseau, Maquiavelo, Montesquieu, Marx, Locke y Kelsen',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'Thomas Hobbes: El Estado como garantía del orden',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Jean-Jacques Rousseau: El contrato social y la soberanía popular',
             hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Nicolás Maquiavelo: El Estado como instrumento del poder',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Montesquieu: La separación de poderes.',
+            hash: 't_1_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.5',
+            titulo: 'Karl Marx: El Estado como instrumento de dominación',
+            hash: 't_1_5',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.6',
+            titulo:
+              'John Locke: El gobierno limitado y los derechos naturales.',
+            hash: 't_1_6',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.7',
+            titulo: 'Hans Kelsen: El Estado como orden normativo',
+            hash: 't_1_7',
           },
         ],
       },
@@ -36,26 +70,32 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo: 'Elementos del Estado',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'La población: Base Humana',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Subtítulo tema',
+            titulo: 'El Territorio: Límites físicos',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Subtítulo tema',
+            titulo: 'La Soberanía: Autoridad Suprema',
             hash: 't_2_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.4',
+            titulo: 'El Poder Político: La capacidad de gobernar',
+            hash: 't_2_4',
           },
         ],
       },
@@ -63,20 +103,32 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Título tema',
+        titulo: 'Fundamento jurídico y legal del Estado',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'Evolución del fundamento jurídico del estado',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Subtítulo tema',
+            titulo: 'Principios normativos del estado',
             hash: 't_3_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo: 'La Constitución: Base del fundamento jurídico del Estado',
+            hash: 't_3_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.4',
+            titulo: 'El Estado de Derecho: garantía de igualdad y justicia',
+            hash: 't_3_4',
           },
         ],
       },
@@ -118,14 +170,34 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Robles Vázquez, J. & Cruz Gayosso, M. (2014). Teoría general del estado. IURE Editores.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/40192',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Bobbio, N. (1989). Estado, gobierno y sociedad. Fondo de Cultura Económica.',
+      link:
+        'https://ia601609.us.archive.org/25/items/bobbio-thomas-hobbes/Bobbio%20-%20Estado_text.pdf',
+    },
+    {
+      referencia:
+        'Aguilar Balderas, L. (2015). Teoría general del Estado. Grupo Editorial Patria.',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/3939',
+    },
+    {
+      referencia:
+        'Travis Arias Purón, R. (2015). Derecho 1. Grupo Editorial Patria.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/39483',
+    },
+    {
+      referencia:
+        'Cassagne, J. C. (2016). Los grandes principios del Derecho Público (Constitucional y Administrativo). Editorial Reus.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/100489',
+    },
+    {
+      referencia:
+        'Kelsen, H. (2009). El método y los conceptos fundamentales de la teoría pura del derecho. Editorial Reus.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/46359',
     },
   ],
   glosario: [
