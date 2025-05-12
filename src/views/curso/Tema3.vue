@@ -9,7 +9,7 @@
             .col-3.d-none.d-xl-block
               img(src='@/assets/curso/unidad/img-57.png', alt='Texto que describa la imagen')
             .col-12.col-xl-9.d-flex(data-aos="fade-up")
-              .d-flex.flex-column.my-auto
+              .d-flex.flex-column.my-auto.p-4.p-xl-0
                 p.mb-4 El Estado, como institución fundamental de organización política y social, requiere un fundamento jurídico y legal que le otorgue legitimidad y garantice su funcionamiento dentro de un marco normativo.
                 span Este fundamento está constituido por el conjunto de normas y principios que rigen su estructura, organización y accionar. A través del derecho, el Estado establece sus competencias, regula las relaciones entre los ciudadanos y define los mecanismos de aplicación de justicia.
       #t_3_1.titulo-segundo(data-aos="flip-up")
@@ -18,10 +18,10 @@
           h2 Evolución del fundamento jurídico del estado.
 
       .row.bg-fondo-1.bg-full-width.py-4.mb-4
-        div.px-5.pb-md-3
+        div.px-5
 
           p.mb-4 El derecho y el poder se han adaptado para atender las necesidades cambiantes de las sociedades, desde la concentración absoluta del poder hasta su democratización. Como lo demuestra el siguiente cuadro: 
-          .row.mb-4
+          .row
             .col-10.col-md-6.col-lg-4.mb-4.mx-auto(data-aos="fade-right")
               div.custom-image-card.rounded-8px
                 img.mb-4(src='@/assets/curso/unidad/img-58.png', alt='Texto que describa la imagen')
@@ -55,7 +55,7 @@
 
       .row.mb-4.bg-amarillo.px-4.py-0
         .col-12.col-xl-8.d-flex(data-aos="fade-up")
-          .my-auto
+          .my-auto.p-4.p-xl-0
             p.mb-2 ●	Principio de legalidad: todo acto del Estado debe estar basado en normas jurídicas previamente establecidas.
 
             p.mb-2 ●	Principio de supremacía constitucional: la Constitución es la norma suprema del ordenamiento jurídico y todas las leyes deben ajustarse a ella.
@@ -277,8 +277,8 @@ export default {
           opciones: [
             { id: 'a', texto: 'Población.', esCorrecta: false },
             { id: 'b', texto: 'Territorio.', esCorrecta: false },
-            { id: 'c', texto: 'Gobierno.', esCorrecta: false },
-            { id: 'd', texto: 'Soberanía.', esCorrecta: true },
+            { id: 'c', texto: 'Gobierno.', esCorrecta: true },
+            { id: 'd', texto: 'Soberanía.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',

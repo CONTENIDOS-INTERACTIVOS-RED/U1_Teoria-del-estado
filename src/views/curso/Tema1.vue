@@ -24,7 +24,7 @@
     #t_1_1.titulo-segundo(data-aos="flip-up")
       div.d-flex
         span.me-3 1.1
-        h2 1.1	Thomas Hobbes: El Estado como garantía del orden.
+        h2 Thomas Hobbes: El Estado como garantía del orden.
 
     p.mb-4(data-aos="fade-up") Thomas Hobbes (1588-1679) es uno de los filósofos políticos más influyentes en la teoría del Estado. En su obra Leviatán (1651), desarrolla una visión del Estado basada en la necesidad de un poder absoluto para garantizar el orden y la seguridad social.
 
@@ -83,7 +83,7 @@
     #t_1_2.titulo-segundo(data-aos="flip-up")
       div.d-flex
         span.me-3 1.2
-        h2 1.2	Jean-Jacques Rousseau: El contrato social y la soberanía popular.
+        h2 Jean-Jacques Rousseau: El contrato social y la soberanía popular.
 
     p.mb-4(data-aos="fade-up") Jean-Jacques Rousseau (1712-1778) plantea, en su obra El contrato social (1762), una visión del Estado completamente distinta a la de Hobbes. Sostiene que la soberanía debe residir en el pueblo y que el Estado debe actuar de acuerdo con la voluntad general.
     .row.mb-4
@@ -116,7 +116,7 @@
     #t_1_3.titulo-segundo(data-aos="flip-up")
       div.d-flex
         span.me-3 1.3
-        h2 1.3	Nicolás Maquiavelo: El Estado como instrumento del poder.
+        h2 Nicolás Maquiavelo: El Estado como instrumento del poder.
 
     p.mb-4(data-aos="fade-up") Nicolás Maquiavelo (1469-1527) es considerado el padre del pensamiento político moderno. En El Príncipe (1513), presenta una visión del poder que rompe con la tradición filosófica anterior, alejándose de principios morales para centrarse en la realidad del ejercicio político.
 
@@ -176,7 +176,7 @@
     #t_1_4.titulo-segundo(data-aos="flip-up")
       div.d-flex
         span.me-3 1.4
-        h2 1.4	Montesquieu: La separación de poderes.
+        h2 Montesquieu: La separación de poderes.
 
     p.mb-4 Montesquieu, en su obra El espíritu de las leyes, formula una de las propuestas más influyentes en la teoría política moderna: la separación de poderes como garantía de la libertad y freno al abuso de autoridad.
     .row.mb-4
@@ -208,7 +208,7 @@
     #t_1_5.titulo-segundo(data-aos="flip-up")
       div.d-flex
         span.me-3 1.5
-        h2 1.5	Karl Marx: El Estado como instrumento de dominación
+        h2 Karl Marx: El Estado como instrumento de dominación
 
     p.mb-4(data-aos="fade-up") Karl Marx ofrece una crítica estructural del Estado desde una perspectiva materialista e histórica. En su visión, el Estado no es un ente neutral, sino una superestructura que reproduce y perpetúa las relaciones de poder de las clases dominantes.
 
@@ -355,7 +355,7 @@
       div.px-5.pb-md-3.py-4.d-flex
         .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column
           h2.mb-4.pb-2.me-auto Teorías del Estado
-          p.mb-5(data-aos="fade-up") Se invita cordialmente a leer el documento Teorías del Estado , donde se presenta un recorrido por las principales concepciones sobre el origen, estructura y finalidad del Estado formuladas por pensadores como Hobbes, Rousseau, Maquiavelo, Montesquieu, Marx, Locke y Kelsen.
+          p.mb-5(data-aos="fade-up") Se invita cordialmente a leer el documento Teorías del Estado, donde se presenta un recorrido por las principales concepciones sobre el origen, estructura y finalidad del Estado formuladas por pensadores como Hobbes, Rousseau, Maquiavelo, Montesquieu, Marx, Locke y Kelsen.
           a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_Teoria del estado.pdf')" target="_blank")
             img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
             p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> Teorías del Estado

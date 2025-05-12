@@ -18,7 +18,7 @@
       div.px-5.pb-md-3
         .row
           .col-12.col-xl-8.d-flex(data-aos="fade-up")
-            p.my-auto Para garantizar una comprensión integral del tema, la unidad se organiza en tres secciones. En primer lugar, se abordarán las principales teorías sobre el Estado desde una perspectiva filosófica y política. Posteriormente, se analizarán sus elementos constitutivos y, finalmente, se estudiará el fundamento jurídico y legal que lo legitima. A lo largo del estudio, se proporcionarán materiales de referencia y actividades que permitirán reforzar los conocimientos adquiridos.
+            p.my-auto.p-4.p-xl-0 Para garantizar una comprensión integral del tema, la unidad se organiza en tres secciones. En primer lugar, se abordarán las principales teorías sobre el Estado desde una perspectiva filosófica y política. Posteriormente, se analizarán sus elementos constitutivos y, finalmente, se estudiará el fundamento jurídico y legal que lo legitima. A lo largo del estudio, se proporcionarán materiales de referencia y actividades que permitirán reforzar los conocimientos adquiridos.
           .col-4.d-none.d-xl-block
             img(src='@/assets/curso/unidad/img-3.png', alt='Texto que describa la imagen')
 

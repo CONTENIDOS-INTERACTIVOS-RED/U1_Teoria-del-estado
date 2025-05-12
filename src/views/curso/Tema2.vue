@@ -84,7 +84,7 @@
             .col-4.d-none.d-xl-block
               img(src='@/assets/curso/unidad/img-46.png', alt='Texto que describa la imagen')
             .col-12.col-xl-8.d-flex(data-aos="fade-up")
-              p.my-auto Además, el territorio tiene implicaciones económicas y políticas significativas; es una fuente de recursos naturales y un factor determinante en el desarrollo de las políticas públicas. Por ejemplo, las disputas territoriales entre Estados, como las controversias marítimas, evidencian la importancia de delimitar fronteras claras para evitar conflictos internacionales. En este sentido, el derecho internacional desempeña un rol clave al establecer mecanismos de resolución de disputas y normativas aplicables.
+              p.my-auto.p-4.p-xl-0 Además, el territorio tiene implicaciones económicas y políticas significativas; es una fuente de recursos naturales y un factor determinante en el desarrollo de las políticas públicas. Por ejemplo, las disputas territoriales entre Estados, como las controversias marítimas, evidencian la importancia de delimitar fronteras claras para evitar conflictos internacionales. En este sentido, el derecho internacional desempeña un rol clave al establecer mecanismos de resolución de disputas y normativas aplicables.
 
       ImagenInfografica.color-secundario.mb-4.bg-white
         template(v-slot:imagen)
@@ -179,7 +179,7 @@
           .col-4.d-none.d-xl-block
             img(src='@/assets/curso/unidad/img-56.png', alt='Texto que describa la imagen')
           .col-12.col-xl-8.d-flex(data-aos="fade-up")
-            p.my-auto Los elementos del Estado son fundamentales para su existencia y funcionamiento. La población es el componente humano sobre el cual se ejerce la autoridad, el territorio delimita su espacio de acción, el poder político permite su organización y la soberanía garantiza su autonomía. Sin estos elementos, no se podría hablar de un Estado propiamente dicho. Cada uno de estos aspectos se interrelacionan y evoluciona n según las condiciones históricas, políticas y sociales.
+            p.my-auto.p-4.p-xl-0 Los elementos del Estado son fundamentales para su existencia y funcionamiento. La población es el componente humano sobre el cual se ejerce la autoridad, el territorio delimita su espacio de acción, el poder político permite su organización y la soberanía garantiza su autonomía. Sin estos elementos, no se podría hablar de un Estado propiamente dicho. Cada uno de estos aspectos se interrelacionan y evolucionan según las condiciones históricas, políticas y sociales.
 
       .bg-full-width.border-top-9-azul
       .px-5.pt-5.pb-0

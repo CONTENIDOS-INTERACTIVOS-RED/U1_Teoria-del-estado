@@ -202,14 +202,69 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Autonomía estatal',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'Capacidad de un Estado para tomar decisiones soberanas sin injerencia externa.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Constitucionalismo',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'Doctrina que promueve la existencia de una Constitución escrita como límite al poder estatal y garantía de derechos fundamentales.',
+    },
+    {
+      termino: 'Contrato Social',
+      significado:
+        'Teoría que explica el origen del Estado como un acuerdo entre individuos que ceden parte de su libertad a una autoridad a cambio de orden y seguridad (Hobbes, Locke, Rousseau).',
+    },
+    {
+      termino: 'Estado',
+      significado:
+        'Organización política y jurídica que ejerce soberanía sobre un territorio y población mediante un gobierno y un orden normativo.',
+    },
+    {
+      termino: 'Estado de derecho',
+      significado:
+        'Sistema en el que el poder del Estado está sometido a normas jurídicas, garantizando que ninguna autoridad esté por encima de la ley.',
+    },
+    {
+      termino: 'Estado social de derecho',
+      significado:
+        'Modelo de Estado en el que, además de garantizar derechos individuales, se busca la justicia social mediante políticas de bienestar y equidad.',
+    },
+    {
+      termino: 'Gobierno limitado',
+      significado:
+        'Concepto desarrollado por Locke que establece que el poder estatal debe estar restringido por la ley para proteger los derechos individuales.',
+    },
+    {
+      termino: 'Orden normativo',
+      significado:
+        'Sistema de normas jurídicas que estructuran el funcionamiento del Estado, estableciendo derechos y obligaciones para gobernantes y ciudadanos.',
+    },
+    {
+      termino: 'Principio de legalidad',
+      significado:
+        'Regla que establece que todas las acciones del Estado deben estar fundamentadas en normas jurídicas preestablecidas.',
+    },
+    {
+      termino: 'Realpolitik',
+      significado:
+        'Enfoque pragmático de la política basado en el interés y la eficacia, sin considerar principios éticos o ideológicos.',
+    },
+    {
+      termino: 'Separación de poderes',
+      significado:
+        'Principio propuesto por Montesquieu que divide el poder del Estado en ejecutivo, legislativo y judicial para evitar abusos y garantizar la libertad.',
+    },
+    {
+      termino: 'Soberanía',
+      significado:
+        'Capacidad del Estado para autogobernarse sin injerencias externas, garantizando el control sobre su territorio y población.',
+    },
+    {
+      termino: 'Supremacía constitucional',
+      significado:
+        'Principio según el cual la Constitución es la norma suprema dentro del ordenamiento jurídico de un Estado.',
     },
   ],
 }
